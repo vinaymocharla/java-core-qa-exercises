@@ -6,12 +6,14 @@ A collection of core Java programs and exercises tailored for QA Automation lear
 
 ## 📁 Project Structure
 
+```
 src/
 └── com/
-└── javapractice/
-├── basics/ # Java syntax, variables, conditionals, loops
-├── strings/ # String operations, StringBuilder, regex
-└── oops/ # OOP concepts: classes, inheritance, polymorphism
+    └── javapractice/
+        ├── basics/        # Java syntax, variables, conditionals, loops
+        ├── strings/       # String operations, StringBuilder, regex
+        └── oops/          # OOP concepts: classes, inheritance, polymorphism
+```
 
 
 ---
