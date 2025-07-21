@@ -15,6 +15,7 @@ public class coreJavaBasics {
 		
 	}
 	
+	//Method for Addition
 	public void add(int a, int b) {
 		
 		int sum = a+b;
