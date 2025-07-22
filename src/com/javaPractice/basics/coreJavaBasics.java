@@ -23,7 +23,7 @@ public class coreJavaBasics {
 		
 		
 	}
-	//Substraction
+	//Subtraction
 	public int  sub(int a, int b) {
 		
 		int difference = a-b;
